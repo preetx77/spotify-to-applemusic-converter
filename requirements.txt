@@ -1,1 +1,22 @@
 
+Project:
+Spotify Playlist → Apple Music Converter
+
+Problem:
+Users moving from Spotify to Apple Music manually recreate playlists.
+
+Goal:
+Automatically convert playlists.
+
+MVP Features:
+1. Accept Spotify playlist link
+2. Read songs
+3. Find equivalent songs
+4. Create Apple Music playlist
+5. Return generated link
+
+Future:
+1. Sync playlists
+2. Batch conversions
+3. Analytics
+4. Recommendation engine
